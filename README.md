@@ -28,6 +28,8 @@ For more details, please refer to the [paper](https://github.com/yczhou001/MAM).
 
 ## Contents
 - [Install](#install)
+- [Use Chat API](#Use-Chat-API)
+- [Quick Start](#Quick-Start)
 
 
 ## Install
@@ -43,6 +45,17 @@ conda activate mam
 pip install --upgrade pip  # enable PEP 660 support
 pip install fire torch torchvision transformers==4.37.2 decord imageio==2.34.0 imageio-ffmpeg==0.4.9 moviepy==1.0.3 einops attrdict timm==0.9.16 scenedetect==0.6.3 opencv-python transformers_stream_generator tiktoken sentencepiece accelerate
 ```
+
+## Use Chat API (Text, Image, Video, Audio)
+```
+python -m use_api
+```
+
+## Quick Start (End-to-End Pipeline)
+```bash
+python -m inference --step_id 9 --question 'What does the picture show?' --file_name tmp/image.png
+```
+
 
 
 
