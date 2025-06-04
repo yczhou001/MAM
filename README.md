@@ -29,7 +29,7 @@ For more details, please refer to the [paper](https://github.com/yczhou001/MAM).
 ## Contents
 - [Install](#install)
 - [Use Chat API](#use-chat-api-text-image-video-audio)
-- [Quick Start](#Quick-Start)
+- [Quick Start](#quick-start-endtoend-pipeline)
 
 
 ## Install
