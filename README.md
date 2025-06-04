@@ -3,6 +3,7 @@
 [📢 [Paper](https://github.com/yczhou001/MAM)] [[Inference](https://github.com/yczhou001/MAM)] [[Dataset](https://github.com/yczhou001/MAM)] [[Models](https://github.com/yczhou001/MAM)]
 
 <p align="center"> <img src="images/pipeline.jpg" width="100%"> </p>
+
 <p align="center"> <img src="images/case_study1.pdf" width="100%"> </p>
 
 ## 📰 News
