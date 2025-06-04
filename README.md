@@ -5,7 +5,7 @@
 <p align="center"> <img src="images/pipeline.jpg" width="100%"> </p>
 
 
-<p align="center"> <img src="images/case_study1.jpg" width="100%"> </p>
+
 
 ## 📰 News
 * **[2025.00.00]** 
@@ -59,7 +59,7 @@ python -m use_api
 python -m inference --step_id 9 --question 'What does the picture show?' --file_name tmp/image.png
 ```
 
-
+<p align="center"> <img src="images/case_study1.jpg" width="90%"> </p>
 
 
 
