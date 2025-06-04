@@ -16,5 +16,10 @@ Recent advancements in medical Large Language Models (LLMs) have showcased their
 
 ## Highlights
 
-* Experimental results demonstrate that the MAM framework consistently outperforms specific-modal LLMs across various medical datasets and data modalities. 
-* We conduct ablation studies, consistency analysis, and sensitivity analyses regarding the number of discussion rounds and roles to gain deeper insights into the roles of individual components and the operational mechanisms of the framework.
+* We evaluate our MAM framework in **multimodal medical diagnosis tasks** through comprehensive experiments on **several publicly available multimodal medical datasets**.
+* Experimental results demonstrate that the MAM framework consistently **outperforms specific-modal LLMs** across various medical datasets and data modalities. 
+* We conduct **ablation studies**, **consistency analysis**, and **sensitivity analyses** regarding the number of discussion rounds and roles to gain deeper insights into the roles of individual components and the operational mechanisms of the framework.
+
+## Experimental results
+* Ablation study of our MAM framework. The “Direct” represents the baseline. From left to right, we incrementally addfunctions. “+Retrieval” is our full MAM framework.
+<p align="center"> <img src="images/table7.jpg" width="80%"> </p>
