@@ -64,4 +64,9 @@ python -m inference --step_id 9 --question 'What does the picture show?' --file_
 
 
 
+## ✏️ Citation
+If you find our paper and code useful in your research, please consider giving a star :star: and citation :pencil:.
 
+```BibTeX
+coming soon
+```
