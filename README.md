@@ -4,6 +4,8 @@
 
 <p align="center"> <img src="images/pipeline.jpg" width="100%"> </p>
 
+case
+
 <p align="center"> <img src="images/case_study1.pdf" width="100%"> </p>
 
 ## 📰 News
