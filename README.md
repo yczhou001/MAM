@@ -7,7 +7,7 @@
 ## 📰 News
 * **[2025.00.00]** 
 * **[2025.00.00]** 
-* **[2025.00.00]** 
+* **[2025.06.05]** [Project Page](https://github.com/yczhou001/MAM) is released.
 * **[2025.05.16]** [MAM](https://github.com/yczhou001/MAM) is accepted as ACL 2025 (findings).
 
 ## Abstract
