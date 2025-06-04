@@ -23,3 +23,13 @@ Recent advancements in medical Large Language Models (LLMs) have showcased their
 ## Experimental results
 * Ablation study of our MAM framework. The “Direct” represents the baseline. From left to right, we incrementally addfunctions. “+Retrieval” is our full MAM framework.
 <p align="center"> <img src="images/table7.jpg" width="50%"> </p>
+For more details, please refer to the [paper](https://github.com/yczhou001/MAM).
+
+
+
+
+
+
+
+
+
