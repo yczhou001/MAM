@@ -26,7 +26,16 @@ Recent advancements in medical Large Language Models (LLMs) have showcased their
 
 For more details, please refer to the [paper](https://github.com/yczhou001/MAM).
 
+## Contents
+- [Install](#install)
 
+
+## Install
+1. Clone this repository and navigate to MAM folder
+```bash
+git clone https://github.com/yczhou001/MAM.git
+cd MAM
+```
 
 
 
