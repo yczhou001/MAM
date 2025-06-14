@@ -3,7 +3,7 @@ import requests
 from dotenv import load_dotenv
 from typing import List, Dict, Optional
 import logging
-dotenv_path = '/home/yc37974/lrs/MedAgent-main/Google_Search_API_Wrapper/example.env'
+dotenv_path = '/your/path/to/example.env'
 load_dotenv(dotenv_path)
 
 class SearchResults:
@@ -25,7 +25,7 @@ class SearchResults:
 
 class GoogleSearchAPI:
     def __init__(self):
-        self.base_url = "https://www.googleapis.com/customsearch/v1"
+        self.base_url = ""
         self.headers = {"Content-Type": "application/json"}
 
         self.api_key = os.getenv('api_key')
